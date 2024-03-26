@@ -1,0 +1,15 @@
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+  }
+  #park-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  .park-item {
+    border-bottom: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
